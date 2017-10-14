@@ -1,1 +1,1 @@
-var tree={};
+var tree={"files":["docker-compose.yml"]};
